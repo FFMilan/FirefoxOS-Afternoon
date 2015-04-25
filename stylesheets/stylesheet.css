@@ -7,7 +7,8 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #606c71; 
+  background-color: #FFF5E9; }
 
 a {
   color: #1e6bb8;
@@ -116,7 +117,8 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  font-size: 150%;
+  color: #EB4E23; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -124,7 +126,7 @@ a {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
   color: #383e41;
-  background-color: #f3f6fa;
+  background-color: #FFF5E9;
   border-radius: 0.3rem; }
 .main-content pre {
   padding: 0.8rem;
